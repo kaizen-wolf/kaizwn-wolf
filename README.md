@@ -8,3 +8,5 @@ meu nome e kauã gomes
   ### VOCÊ PODE ENTRAR EM CONTATO COMIGO📫
   00001095635839sp@al.educacao.sp.gov.br
   
+![](https://tenor.com/pt-BR/view/itadori-yuji-gif-26016370)
+
