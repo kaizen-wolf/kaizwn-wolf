@@ -1,7 +1,7 @@
 ### BOAS VINDAS AO MEU PERFIL 💖
 
 meu nome e kauã gomes 
-- estou estudando na alura
+- estou estudando na [alura](https://www.alura.com.br)
 - estou me desenvolvendo na linguagem javaScript
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
